@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Raj Priy Dixit 👋
 
-<!--
-**tokyoto6737/tokyoto6737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at VIT Bhopal  
+💻 Interested in Technology, Coding & Innovation  
+🚀 Currently learning programming and building projects  
 
-Here are some ideas to get you started:
+## 🌱 Goals
+- Improve coding skills  
+- Build real-world projects  
+- Explore new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/raj-priy
