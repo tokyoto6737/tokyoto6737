@@ -1,4 +1,4 @@
-# Hi, I'm Raj Priy Dixit 👋
+# Hi, I'm Raj Priy 👋
 
 🎓 B.Tech Student at VIT Bhopal  
 💻 Interested in Technology, Coding & Innovation  
